@@ -1,0 +1,9 @@
+C:/xampp1/htdocs/projects/build-myTouriste-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/myTouriste.dir
+C:/xampp1/htdocs/projects/build-myTouriste-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/xampp1/htdocs/projects/build-myTouriste-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/xampp1/htdocs/projects/build-myTouriste-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/xampp1/htdocs/projects/build-myTouriste-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/xampp1/htdocs/projects/build-myTouriste-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/xampp1/htdocs/projects/build-myTouriste-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/xampp1/htdocs/projects/build-myTouriste-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/myTouriste_autogen_timestamp_deps.dir
+C:/xampp1/htdocs/projects/build-myTouriste-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/myTouriste_autogen.dir

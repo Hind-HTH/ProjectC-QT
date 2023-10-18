@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>valise-de-voyage.jpg</file>
+    </qresource>
+</RCC>
